@@ -1,0 +1,27 @@
+Pieslēgšanās e-pastam: atver interneta pārlūku, ievada e-pasta adresi un parole, nospiež pogu "Ieiet" vai Enter uz datora klaviatūras, gaida, kamēr atveras e-pasts.
+
+1. Atver interneta pārlūku;
+2. Ievada e-pasta adresi;
+3. Ievada e-pasta parole;
+4. Nospiež pogu "Ieiet" vai Enter uz datora klaviatūras;
+5. Gaida, kamēr atveras e-pasts;
+6. Ja e-pasta adrese un/vai parole ievadītas kļūdaini, e-pasts neatveras;
+7. Pārbauda un izlabo e-pasta adresi un/vai paroli;
+8. Nospiež pogu "Ieiet" vai Enter uz datora klaviatūras;
+9. Gaida, kamēr atveras e-pasts;
+10. Ja e-pasta adrese un parole ievadītas pareizi, e-pasts atveras;
+11. Procesa beigas.
+
+Kafijas iegāde: ieiet kafejnīcā, izvēlas vienu no piedāvātajiem kafijas veidiem, veic pasūtījumu, izvēlas maksāšanas veidu, samaksā, gaida, kamēr tiek pagatavota kafija, saņem savu pasūtījumu.
+
+1. Ieiet izvēlētajā kafejnīcā;
+2. Izvēlas vienu no piedāvātajiem kafijas veidiem;
+3. Izvēlas vienu no piedāvātajiem kafijas izmēriem;
+4. Veic pasūtījumu;
+5. Izvēlas vienu no piedāvātajiem maksāšanas veidiem;
+6. Veic apmaksu;
+7. Gaida, kamēr tiek pagatavota kafija;
+8. Saņem savu pasūtījumu;
+9. Procesa beigas.
+
+

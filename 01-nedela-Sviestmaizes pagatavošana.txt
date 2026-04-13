@@ -1,0 +1,30 @@
+Sviestmaizes pagatavošana
+
+Sākt
+	Paņemt maizi
+	
+	Izvēlēties: Vai baltmaize?	
+	Ja baltmaize:
+		Izvēlēties: Vai maizi grauzdēt?
+
+		Ja jā:
+		Grauzdēt
+		Citādi:
+		Pāriet pie soļa "Uzsmērēt sviestu"
+	
+	Citādi:
+	Pāriet pie soļa "Uzsmērēt sviestu"
+
+	Uzsmērēt sviestu
+
+	Izvēlēties, ko likt uz sviestmaizes:
+	Ja izvēlas desu:
+		Uzlikt desu
+	Ja izvēlas sieru:
+		Uzlikt sieru
+	Ja izvēlas tomātu:
+		Uzlikt tomātu
+	Ja izvēlas gurķi:
+		Uzlikt gurķi
+
+Beigt
